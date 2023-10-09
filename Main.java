@@ -1,4 +1,4 @@
-public class ChickenAndEgg {
+public class Main {
     public static void main(String[] args) {
         Thread chickenThread = new Thread(() -> {
             for (int i = 0; i < 5; i++) {
